@@ -1,0 +1,38 @@
+[
+    {
+        "name": "apple phone",
+        "price": 180,
+        "company": "apple",
+        "rating": 4
+    },
+    {
+        "name": "lg invterter fridge",
+        "price": 80,
+        "company": "lg",
+        "rating": 4.5
+    },
+    {
+        "name": "hair clipper",
+        "price": 55,
+        "company": "massle",
+        "rating": 2.8
+    },
+    {
+        "name": "dinning table",
+        "price": 160,
+        "company":"vava furniture",
+        "rating": 3.8
+    },
+    {
+        "name":"body lotion",
+        "price": 25,
+        "company": " Dr Teal's",
+        "rating": "4.0"
+    },
+    {
+        "name":"air conditioner",
+        "price": 67,
+        "company": "hisense",
+        "featured": "4.8"
+    }
+]
